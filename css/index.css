@@ -1,0 +1,39 @@
+/**
+ * @Author: lijun
+ * @Date:   2019-Sep-11
+ * @Email:  FlydomTeam@163.com
+ * @Project: FlyDom
+ * @Filename: index.css
+ * @Last modified by:   lijun
+ * @Last modified time: 2019-Sep-11
+ * @Copyright: @copyright Copyright ©️ SingleTeam
+ */
+
+body{
+  width: 100%;
+  height: 100%;
+}
+
+.moon{
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 70%;
+  width: 15%;
+}
+
+.ce_girl{
+  position: absolute;
+  margin-top: 15%;
+  margin-left: 50%;
+  width: 30%;
+}
+
+.poem{
+  position: absolute;
+  margin: 20% 20%;
+  color: #ffff33;
+}
+
+audio{
+  display: none;
+}
